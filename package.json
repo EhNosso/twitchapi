@@ -1,0 +1,23 @@
+{
+  "name": "@ehnosso/twitchapi",
+  "version": "1.0.0",
+  "description": "Twitch API implementation",
+  "main": "index.js",
+  "public": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SouCrypto/twitchapi.git"
+  },
+  "author": "Andre Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SouCrypto/twitchapi/issues"
+  },
+  "homepage": "https://github.com/SouCrypto/twitchapi#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
